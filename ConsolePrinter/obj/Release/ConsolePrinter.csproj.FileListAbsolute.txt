@@ -1,0 +1,15 @@
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\ConsolePrinter.exe
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\ConsolePrinter.pdb
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Web.Http.dll
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Web.Http.SelfHost.dll
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Web.Http.xml
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\bin\Release\System.Web.Http.SelfHost.xml
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\obj\Release\ConsolePrinter.csprojAssemblyReference.cache
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\obj\Release\ConsolePrinter.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\obj\Release\ConsolePrinter.csproj.CopyComplete
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\obj\Release\ConsolePrinter.exe
+C:\Users\Hasif\RiderProjects\ConsolePrinter\ConsolePrinter\obj\Release\ConsolePrinter.pdb
